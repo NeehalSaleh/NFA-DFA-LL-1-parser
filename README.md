@@ -1,6 +1,6 @@
 # NFA-DFA-LL-1-parser
 
-This project consists of 2 parts.
+This project consists of 2 parts:
 
 - Part 1 (NFA_and_DFA):
 First, we will build an NFA from a given regular expression, and then we will convert the giving NFA into a DFA.
